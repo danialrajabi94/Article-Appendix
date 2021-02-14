@@ -84,4 +84,5 @@ MG test system data are presented as Tables B.1-B.4 and Figs B.1-B.2 as follows.
 
 # Refrences
 [1] G. Mavrotas, "Effective implementation of the ε-constraint method in multi-objective mathematical programming problems," Applied mathematics and computation, vol. 213, pp. 455-465, 2009.
+
 [2] A. Soroudi, R. Caire, N. Hadjsaid, and M. Ehsan, "Probabilistic dynamic multi-objective model for renewable and non-renewable distributed generation planning," IET generation, transmission & distribution, vol. 5, pp. 1173-1182, 2011.
