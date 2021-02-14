@@ -6,7 +6,7 @@ The linear form of a multi-objective problem converted to a single objective one
   <img src="https://github.com/danialrajabi94/Article-Appendix/blob/main/images/equation_A1.PNG">
 </p>
 
-Where dir in maximization and minimization problems considers +1 and -1, respectively. The following steps describe the proposed approach [30], [31]:
+Where dir in maximization and minimization problems considers +1 and -1, respectively. The following steps describe the proposed approach [1], [2]:
 1.Constructing payoff table: in this step the range of each objective function is determined with the Lexicographic method. In this method, all objective functions are ranked according to their priority and optimization starts with the most important objective function. After optimizing the first objective function, if the solution is an optimal unique solution then the optimization process is finished otherwise, the next objective function should be optimized. The process will continue until the problem completely solves.
 
 2.Calculation the lower and upper bound of objective function: in this step the lower and upper bound and the range of each of objective functions are determined according to (A.2)-(A.4).
@@ -80,3 +80,8 @@ MG test system data are presented as Tables B.1-B.4 and Figs B.1-B.2 as follows.
 <p align="center">
   Fig. B.2. Forecasted retail power marker clearing price for a 24 hours horizon
 </p>
+
+
+# Refrences
+[1] G. Mavrotas, "Effective implementation of the ε-constraint method in multi-objective mathematical programming problems," Applied mathematics and computation, vol. 213, pp. 455-465, 2009.
+[2] A. Soroudi, R. Caire, N. Hadjsaid, and M. Ehsan, "Probabilistic dynamic multi-objective model for renewable and non-renewable distributed generation planning," IET generation, transmission & distribution, vol. 5, pp. 1173-1182, 2011.
